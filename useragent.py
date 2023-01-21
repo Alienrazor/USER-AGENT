@@ -74,7 +74,7 @@ def hun():
     print ('\033[1;91m_________________________________________________\033[32m')
     print('')
     time.sleep(20)
-    os.system('python ')
+    os.system('python ak ')
         
 main()
 #Script End
