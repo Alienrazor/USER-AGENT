@@ -1,10 +1,12 @@
 # USER-AGENT
 Fresh user-agent generator with python no limits
 
-
-
-
-
+pkg up
+pkg install git
+pkg install python
+git clone https://github.com/Alienrazor/USER-AGENT
+cd USER-AGENT
+python useragent.py
 
 
 
