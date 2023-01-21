@@ -16,7 +16,7 @@ print(a, end="\n")
 open('/sdcard/USER-AGENT.txt', 'a').write(a+'\n')
 
 
-os.system('python test.py')
+os.system('python ak')
     
 
 
