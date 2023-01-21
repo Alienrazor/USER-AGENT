@@ -2,7 +2,7 @@
 import time
 import os
 
-os.system('python ug.py')
+os.system('python ug')
    
 
 
