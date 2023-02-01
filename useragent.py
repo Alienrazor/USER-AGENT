@@ -71,6 +71,7 @@ def hun():
     print('      \033[32m          NOTE')
     print('\033[96m Agents Saved In /sdcard/USER-AGENT.txt')
     print(' To Stop Process CTRL + Z\033[32m')
+    print('\033[91m WAIT A WHILE..........')
     print ('\033[1;91m_________________________________________________\033[32m')
     print('')
     time.sleep(20)
